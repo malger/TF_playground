@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "C:\\tools\\Anaconda3\\envs\\tensorflow\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "C:\\tools\\.virtual-site-packages"
+    ],
+    "editor.formatOnSave": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pylintPath": "pylint",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.linting.pylintEnabled": true,
+}

@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "C:\\tools\\miniconda3\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "C:\\tools\\.virtual-site-packages"
+    ],
+    "editor.formatOnSave": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pylintPath": "pylint",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.linting.pylintEnabled": true,
+}
